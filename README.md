@@ -1,11 +1,11 @@
-### Helping the Earth One Bag at a Time
+## Helping the Earth One Bag at a Time
 
 This is my visual project that encourages people to bring bags to the grocery store and reduce plastic use. I envision this image as a flyer or poster that can be hung in a grocery store or pharmacy.
 
 
 
 
-## ASSETS
+### ASSETS
 
 Pictures:
 bag by Turkkub from the Noun Project
